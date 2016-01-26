@@ -1,0 +1,28 @@
+name: Maxime De Campenaere
+favicon: null
+layout_spectrum: 0.2380329007282853
+typography_spectrum: 0.5721997995860875
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6820155396126211
+  lightness: 0.47045371145941317
+  saturation: 0.6083541847765446
+  rhythmicContrast: 0.5593544584698975
+purpose: []
