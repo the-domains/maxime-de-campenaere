@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Maxime De Campenaere]]></title>
         <description><![CDATA[Maxime De Campenaere]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/maxime-de-campenaere/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 13:50:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Jan 2016 12:28:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/maxime-de-campenaere/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8faf8e00-587d-49cb-9972-39a9675248fc.jpg">]]></description>
-            <link>undefined345fca34-6262-4085-89a8-62adc4e98750/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/79bab11a-3164-4f45-85ee-bdae7a28248b.jpg">]]></description>
+            <link>https://thegrid.ai/maxime-de-campenaere/345fca34-6262-4085-89a8-62adc4e98750/index.html</link>
             <guid isPermaLink="false">345fca34-6262-4085-89a8-62adc4e98750</guid>
-            <pubDate>Tue, 26 Jan 2016 13:50:23 GMT</pubDate>
+            <pubDate>Thu, 28 Jan 2016 12:28:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
