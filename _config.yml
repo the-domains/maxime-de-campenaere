@@ -1,28 +1,40 @@
-name: Maxime De Campenaere
-favicon: null
-layout_spectrum: 0.2380329007282853
-typography_spectrum: 0.5721997995860875
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.6820155396126211
-  lightness: 0.47045371145941317
-  saturation: 0.6083541847765446
-  rhythmicContrast: 0.5593544584698975
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.5250627
+  brandStrength: 0.741228
+  lightness: 0
+  brandColors:
+    - '#091225'
+    - '#45566A'
+    - '#25344B'
+    - '#EAEAF2'
+    - '#8C92A3'
+  rhythmicContrast: 0.221178
+typography_spectrum: 0.5721997995860875
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.9818296
+favicon: null
+name: Maxime De Campenaere
