@@ -1,7 +1,5 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+name: Maxime De Campenaere
 opengraph:
   image: null
   type: null
@@ -22,7 +20,7 @@ purpose: []
 color:
   saturation: 0.5250627
   brandStrength: 0.741228
-  lightness: 0
+  lightness: 0.6679198
   brandColors:
     - '#091225'
     - '#45566A'
@@ -31,10 +29,12 @@ color:
     - '#8C92A3'
   rhythmicContrast: 0.221178
 typography_spectrum: 0.5721997995860875
+layout_spectrum: 0.9818296
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.9818296
-favicon: null
-name: Maxime De Campenaere
+analytics:
+  twitter: null
+  google: null
+  facebook: null
